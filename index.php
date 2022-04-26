@@ -1,5 +1,3 @@
-<!-- WELCOME TO MY LIFE -->
-<!-- FUCK YOU BITCH -->
 <!DOCTYPE html>
 <html>
     <head>
